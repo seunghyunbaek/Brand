@@ -25,4 +25,4 @@
   
 
 #### Demo
-[Demo 영상입니다](https://github.com/seunghyunbaek/Brand)
+[Demo 영상입니다](https://drive.google.com/open?id=1g5oz-ubSWJB3RKDJmOMIvtpqTtKr5Lyw)
