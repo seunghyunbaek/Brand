@@ -23,7 +23,7 @@
 * MySQL
 * PHP7, 5
   * PHP 7을 이용하여 개발을 마친후 무료 웹 호스팅을 위해 5버전으로 변경
-  * [Brand](back947.dothome.co.kr)
+  * [Brand](http://back947.dothome.co.kr/)
   
 
 #### Demo
